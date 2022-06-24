@@ -1,0 +1,951 @@
+Title: QnA bot
+Author:
+Description:
+
+
+Q(1): How can I help you? 
+A:<p style="text-align:center">Before sending a log to a delivery coordinator, please check here!</p>
+	Q(1.1): Please click to choose options
+	A: Price
+		Q(1.1.1): Does the customer want delivery sooner to ensure a lower price?
+		A: Yes
+			Q(1.1.1.1): If the customer wants delivery sooner to ensure a better price, no log to the coordinator is required. <br>  You can offer to rebill the delivery at the current price once it posts.  If it's outside your empowerment, reach out to a Team Lead or Supervisor. <br><br> Here's a link to the Wiki page <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Pricing%20Inquiries.aspx#related-logs-details" target="_blank">Billing adjust/Pricing/Price not set up correctly</a> <br> Does that answer your question?
+			A: Yes
+				Q(1.1.1.1.1): <img src="http://jasoneppink.com/wp-content/gallery/the-reaction-gif-moving-image-as-gesture/kermit.gif"> 
+				
+			A: No 
+				Q(1.1.1.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime.
+
+		A: No 
+			Q(1.1.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime
+	A: ETA
+		Q(1.1.2): Is the customer critical or non-critical?
+		A: Critical
+			Q(1.1.2.1): Looking for ETA log should only be used if cx has a CR appliance with a missed PD but is not OOG. OOG means 15% or less for large commercial or 5% or less for small commercial/residential. <BR><BR> Small commercial that uses a lot of propane quickly and would disrupt operations for them and their employees should be treated the same as large commercial. <BR><BR> Does this answer your question?
+			A: Yes	
+				Q(1.1.2.1.1): <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:57.5%;position:relative;"><iframe width="360" height="207" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6ckyt9"></iframe></div><p><a href="https://imgflip.com/gif/6ckyt9">via Imgflip</a></p></div>
+			A: No
+				Q(1.1.2.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime.
+ 
+		A: Non-critical
+			Q(1.1.2.2): ETA logs are not used for NC appliances, even if missed PD. Please use the Days Reminding Calculator/Sensor site in conjunction with PD tool to get a new PD and follow the 
+delivery order modification process. Even if customer is remote. <BR><BR> If customer was given multiple PDs and they have all been missed, this would become an escalation.  <BR><BR> Especially if the customer won't accept anything less than an guaranteed date (retention risk).  Does this answer your question?
+			A: Yes
+				Q(1.1.2.2.1): <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:57.5%;position:relative;"><iframe width="360" height="207" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6ckyt9"></iframe></div><p><a href="https://imgflip.com/gif/6ckyt9">via Imgflip</a></p></div>
+			A: No 
+				Q(1.1.2.2.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime.
+	A: OOG
+		Q(1.1.3): Is the customer critical or non-critical?
+		A: Critical
+			Q(1.1.3.1): If the customer is critical, you can send a log to the DC. Use the Out of Gas Bulk when the customer is 5% or less (small commercial/residential) or 15% or less for large commercial. <BR><BR> Please also refer to the OOG trouble shooting questions to confirm the customer is OOG. <BR> <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Out%20of%20Gas%20Requests.aspx#title2" target="_blank">Troubleshooting</a> You can Teams DC for an ETA if the appliance is critical. <BR><BR> Please start message with CR appliance and confirmed % OOG <BR><BR> Does this answer your question?
+			A: Yes
+				Q(1.1.3.1.1): Great! <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:65.77%;position:relative;"><iframe width="260" height="171" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d3u4b"></iframe></div><p><a href="https://imgflip.com/gif/6d3u4b">via Imgflip</a></p></div>
+					
+			A: No
+				Q(1.1.3.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime.
+		A: Non-critical
+			Q(1.1.3.2): If the customer is non-critical, do not send a log to the delivery coordinator <BR><BR> Check the PD Tool to determine promise date. Provide the PD date to customer and create a delivery order. <BR><BR> If the customer is still upset with the deliver by date, review annual consumption <BR><BR> If consumption <2000 lts.  and customer still not satisfied, escalate to CE Supervisor/Manager <BR><BR?> If consumption >2000 lts. reduce PD date by 1 – 2 days unless on cities list 
+			A: If the customer is still not happy, click here			
+				Q(1.1.3.2.1): If the customer is still upset with the deliver by date, review annual consumption If consumption >2000 lts. reduce PD date by 1 – 2 days unless on cities list <BR><BR> If the customer is still not satisfied, escalate to CE Supervisor/CE Manager/Delivery Coordinator to call customer if the delivery date/time is altered outside of original promise to customer and update <BR><BR> Does that answer your question?
+				A: Yes
+					Q(1.1.3.2.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>
+				A: No
+					Q(1.1.3.2.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime.
+		A: What is the difference between critical and non critical?
+			Q(1.1.3.3): A customer is considered non-critical if they are out of gas and propane is being used for non-essential appliances (i.e. fireplace not for main heat, BBQ, dryer, fridge), a will call customer using propane for a cook stove or water heater or customer indicates the request is non-critical. <BR><BR> Go back one to choose an option
+			
+						
+
+	A: Delivery Dispute (Issues)
+		Q(1.1.4): Please click to choose an option 
+		A: Overfill
+			Q(1.1.4.1): Please do not send a log to the delivery coordinator for overfills. 
+			A: These are handled by CER's. Please do not send a log to the DC. Click to continue...
+				Q(1.1.4.1.1): Do you want to know more about the process?
+				A: Yes
+					Q(1.1.4.1.1.1): If the customer asked for a minimum deliver and received an order over the requested amount you can <BR><BR> 1) Offer to reduce the PPL <BR><BR> 2) Offer up to 3 months to pay (no further deliveries until fully paid). <BR><BR> If it was not a Superior error (customer says they requested a min fill  but not to request at the time of the order), you can offer up to 30 days to pay. <BR><BR> Use the Acct Inquiry/Bal Detail log. Here's a link to the Wiki Read more about it here <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Disputes.aspx#title3" target="_TARGET">Overfills</a>
+					
+				A: No
+					Q(1.1.4.1.1.2): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div> 
+							
+		A: Missed PD and OOG
+			Q(1.1.4.2): Missed promise dates occur when a delivery is completed outside the window that was provided to a customer <BR><BR> This does not include dates that are given where the DC has tried to get to the customer before the time window. ie- PD is May 5th but DC attempted delivery May 3rd. <BR><BR> Review the logs for any notes about a changed delivery date and if the information is missing please escalate the situation. <BR><BR> I​​n the case of an OOG situation due to a missed promise date, you must send a Delivery/1st Level Escalation log ​to the Delivery Coordinator, please follow the 1st Level Escalation process on our <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Escalations%20%26%20Complaints.aspx" target="_blank">Escalations and Complaints page</a> <BR><BR> 
+Was there property damage due to an missed promise date?
+			A: Yes
+				Q(1.1.4.2.1):  It is extremely important that all incidents that result in damage to the property are to be dealt with by the appropriate Market Manager.  
+				A: The required Incident Report Protocol needs to be followed  <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Incident%20Report%20Protocol.aspx#title1">Incident Report Protocol</a>
+					Q(1.1.4.2.1.1): Does this answer your question?
+					A: Yes 
+						Q(1.1.4.2.1.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:105.77%;position:relative;"><iframe width="260" height="275" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6du249"></iframe></div><p><a href="https://imgflip.com/gif/6du249">via Imgflip</a></p></div>
+					A: No
+						Q(1.1.4.2.1.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime. 
+			A: No
+				Q(1.1.4.2.2):
+
+		A: Unexpected deliveries
+			Q(1.1.4.3):At times, in order to resolve these complaints it is necessary to provide education on Delivery Stops​. Link to the Wiki here: <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Stops.aspx" target="_blank">Delivery Stops</a> <BR><BR> Best option is to offer a reduction in the price per liter <BR><BR> Second option is to offer extended payment arrangements <BR><BR> This requires approval from the Supervisor of Credit & Collections <BR><BR> Use an Acct Inquiry/Bal Detail log to capture conversations with a past-due customer.​
+			A:Link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Disputes.aspx#title4" target="_blank">Unexpected Delvery</a> <BR><BR> Adjust the PPL log: <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Disputes.aspx#CustomWikiHeading text-xs-centre noindex" target="_blank">Billing Adjust/Pricing</a>
+				Q(1.1.4.3.1): Does this answer your question?
+				A: Yes
+					Q(1.1.4.3.1.1): Commited HF cat <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:57.5%;position:relative;"><iframe width="360" height="207" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6ckyt9"></iframe></div><p><a href="https://imgflip.com/gif/6ckyt9">via Imgflip</a></p></div>
+					
+				A: No
+					Q(1.1.4.3.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime.
+			 
+		A: Did not receive delivery
+			Q(1.1.4.4): We could have delivered to the wrong location.  Or the customer burned through more fuel than expected <BR><BR> Does the customer have a delivery slip for the delivery in question? <BR><BR> ​​​​​If the dispute involves the most recent delivery, do they know what the tank percentage is currently? <BR><BR> If this does not resolve the issue (ie delivery as some time ago and the customer may have used the propane) the longitude and latitude must be used to try to pinpoint where the delivery was made <BR><BR> Steps to determine this are found in <a href="https://superiorplus.sharepoint.com/:w:/r/sites/KM/_layouts/15/Doc.aspx?sourcedoc=%7B9E7B4B99-59ED-40F3-99B8-7CBBF15F666F%7D&file=Finding%20Proof%20of%20Delivery%20-%20Options.docx&action=default&mobileredirect=true&DefaultItemOpen=1" target="_blank">Finding proof of delivery</a> <br><br> If the customer is still disputing the delivery, a Delivery/1st Level Escalation log needs to be forwarded to the delivery coordinator to look into the matter further.  Please follow the 1st Level Escalation process on our <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Escalations%20%26%20Complaints.aspx#title2" target="_blank">Escalations & Complaints​​ page</a> 
+		A: Fees
+			Q(1.1.4.5): Please do not send a log to the delivery coordinator if the customer is disputing delivery fees  <BR> Fees can be credited on a one time bases by using the Billing Adjust/Administrative log. <br><br> Fees can also be permanently removed with Market Manager approval.  Once approved, send an AR Addons Delivery log to the regions pricing team. <br><br> ​​Exception: The SAC Admin team can waive fees for the first year if advised by the Customer Care team.
+			A: Click on delivery fees for a link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Disputes.aspx#title1" target="_blank">Delivery fees</a>
+				Q(1.1.4.5.1): Does that answer your question?
+				A: Yes
+					Q(1.1.4.5.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:56.15%;position:relative;"><iframe width="260" height="146" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0okr"></iframe></div><p><a href="https://imgflip.com/gif/6d0okr">via Imgflip</a></p></div>
+				A: No
+					Q(1.1.4.5.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+		
+	A: Missed delivery
+		Q(1.1.5): Does the customer's order look like this? <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Order%20Modification.aspx#title7" target="_blank">Sensor order</a>
+		A: Yes 
+			Q(1.1.5.1): This is not a missed delivery. Please do not send a log to the delivery coordinator <br><br>Please cancel the order and enter a new one based on the date from the new PD tool.  These dates shown in the WebLive order should not be provided to the customer as they are only a placeholder date. <br><br> **Note** A a Cancel Same Day Ticket log is only required for orders that are in PRINTED or ASSIGNED status, regardless of how they were initially placed.  
+			
+		A: No
+			Q(1.1.5.2): We could have delivered to the wrong location <BR><BR> The customer burned through more fuel than expected <BR><BR> Does the customer have a delivery slip for the delivery in question? <BR><BR> ​​​​​If the dispute involves the most recent delivery, do they know what the tank percentage is currently? <BR><BR> If this does not resolve the issue (ie delivery as some time ago and the customer may have used the propane) the longitude and latitude must be used to try to pinpoint where the delivery was made <BR><BR> Steps to determine this are found in <a href="https://superiorplus.sharepoint.com/:w:/r/sites/KM/_layouts/15/Doc.aspx?sourcedoc=%7B9E7B4B99-59ED-40F3-99B8-7CBBF15F666F%7D&file=Finding%20Proof%20of%20Delivery%20-%20Options.docx&action=default&mobileredirect=true&DefaultItemOpen=1" target="_blank">Finding proof of delivery</a>
+	A: Property damage - Incident reports 
+		Q(1.1.6): These logs do not go to the delivery coordinator and can be resolved.  <br><br> If a customer reports and incident and it's delivery related, use the Property Damage log. The log can be resolved: //Delivery/General Delivery/Property Damage <br><br> Do you want some example of incidents?
+		A: Yes 
+			Q(1.1.6.1): <ul>
+  <li>Damage to a customer's driveway or lawn</li>
+  <li>Damaging a customer's property (hitting a fence, wall, building or running over a septic system</li>
+  <li>Fire at a customer's location</li>
+  <li>Running a customer OOG which leads to frozen pipes</li>
+  <li>Anonymous bystander reports SP driver yelling at someone in a gas station for no reason</li>
+  <li>Caller reports a Superior Propane truck is driving too fast</li>
+</ul>
+			A: Here is a link to the Wiki for more info <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Incident%20Report%20Protocol.aspx" target=title3"_blank">Incident Reports</a>
+				Q(1.1.6.1.1): Does that answer your question?
+				A: Yes
+					Q(1.1.6.1.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:105.77%;position:relative;"><iframe width="260" height="275" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6du249"></iframe></div><p><a href="https://imgflip.com/gif/6du249">via Imgflip</a></p></div>
+				A: No 
+					Q(1.1.6.1.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance 
+		A: No 
+			Q(1.1.6.2): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>		 
+
+	A: Overfills
+		Q(1.1.7): Please do not send a log to the delivery coordinator <BR><BR> Possible resolution (we want to avoid pumping out the fuel) reduce the price per liter. <BR> Extend payment arrangements (offer three months to pay, no further deliveries until fully paid). <BR> Use an Acct Inquiry/Bal Detail log to capture the conversation details with the customer.​ <BR><BR> Do you want a link to the Wiki?
+		A: Yes
+			Q(1.1.7.1): <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Disputes.aspx#title3" target="_blank">Overfills</a>
+		A: No	
+			Q(1.1.7.2): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>
+				
+A: Delivery
+	Q(1.2): Is this during business hours or after hours?
+	A: Business Hours
+		
+		Q(1.2.1): Click here for options
+		A: Delivery disputes 
+			Q(1.2.1.1): What is the customer disputing?
+			A: Delivery fees
+				Q(1.2.1.1.1): Delivery fees are not always charged by our competitors so it's important to explain why we bill them. <BR> Delivery fees can be credited on a one time basis; however, should the customer mention a trigger, the Customer Care Team has further empowerment to help keep the customer if needed.<BR> All changes to delivery fees must be completed by the Regional Pricing Team. The request is initiated by sending a AR Addons Delivery Fee​ ​log​. <BR>​​
+​​Exception: The SAC Admin team can waive fees for the first year if advised by the Customer Care team. <BR><BR> To request the credit for the delivery fees, send a Billing Adjust/Administrative log. Here is a link to the log. <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Disputes.aspx#title0" target="_blank">Billing adjust log</a> <BR><BR> Does that answer your question?
+				A: Yes 
+					Q(1.2.1.1.1.1): <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:57.5%;position:relative;"><iframe width="360" height="207" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6ckyt9"></iframe></div><p><a href="https://imgflip.com/gif/6ckyt9">via Imgflip</a></p></div>
+				A: No 
+					Q(1.2.1.1.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime.			
+			A: Overfills
+				Q(1.2.1.1.2): This happens when a customer asks for a minimum fill and receives a delivery over the requested amount.<BR><BR> Possible resolution as we want to avoid pumping out the fuel: <BR><BR> 1)Reduce the price per liter. <BR> 2) Extend payment arrangements (offer three months to pay, no further deliveries until fully paid). <BR> Use an Acct Inquiry/Bal Detail log to capture the conversation details with the customer.​ <BR><BR>Do you want a link to the Wiki?
+				A: Yes
+					Q(1.2.1.1.2.1):<a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Disputes.aspx#title3" target="_blank">Overfills</a>
+				A: No 
+					Q(1.2.1.1.2.2): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>
+ 
+			A: Unexpected delivery
+				Q(1.2.1.1.3):At times, in order to resolve these complaints it is necessary to provide education on Delivery Stops​. Link to the Wiki here: <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Stops.aspx" target="_blank">Delivery Stops</a> <BR><BR> Best option is to offer a reduction in the price per liter <BR><BR> Second option is to offer extended payment arrangements <BR><BR> This requires approval from the Supervisor of Credit & Collections <BR><BR> Use an Acct Inquiry/Bal Detail log to capture conversations with a past-due customer.​
+				A:Link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Disputes.aspx#title4" target="_blank">Unexpected Delvery</a> <BR><BR> Adjust the PPL log: <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Disputes.aspx#CustomWikiHeading text-xs-centre noindex" target="_blank">Billing Adjust/Pricing</a>
+					Q(1.2.1.1.3.1): Does this answer your question?
+					A: Yes
+						Q(1.2.1.1.3.1.1): Commited HF cat <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:57.5%;position:relative;"><iframe width="360" height="207" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6ckyt9"></iframe></div><p><a href="https://imgflip.com/gif/6ckyt9">via Imgflip</a></p></div>
+					
+					A: No
+						Q(1.2.1.1.3.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime.
+			
+		
+	
+			A: Did not receive delivery
+				Q(1.2.1.1.4): We could have delivered to the wrong location <BR><BR> The customer burned through more fuel than expected <BR><BR> Does the customer have a delivery slip for the delivery in question? <BR><BR> ​​​​​If the dispute involves the most recent delivery, do they know what the tank percentage is currently? <BR><BR> If this does not resolve the issue (ie delivery as some time ago and the customer may have used the propane) the longitude and latitude must be used to try to pinpoint where the delivery was made <BR><BR> Steps to determine this are found in <a href="https://superiorplus.sharepoint.com/:w:/r/sites/KM/_layouts/15/Doc.aspx?sourcedoc=%7B9E7B4B99-59ED-40F3-99B8-7CBBF15F666F%7D&file=Finding%20Proof%20of%20Delivery%20-%20Options.docx&action=default&mobileredirect=true&DefaultItemOpen=1" target="_blank">Finding proof of delivery</a>
+						
+		A: Minimum fills
+			Q(1.2.1.2): Please choose an option
+			A: What are the minimum fill amounts?
+				Q(1.2.1.2.1): These are the min fill amounts by region: <br> Pacific $600 <br> Alberta $600 <br> Prairie $600 (First Nation Accounts $400 *exceptions Beardys's First Nation $250*, Canoe Lake <br> Ontario $600 <br> Quebec $600 <br> Atlantic No Minimum fills allowed. Do you want a link to the Wiki?
+				A: Yes
+					Q(1.2.1.2.1.1): Here's the link <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Order%20Creation%20-%20Minimum%20Fill%20Requests.aspx#title0" target="_blank">Minimum Fills</a>
+				A: No 
+					Q(1.2.1.2.1.2): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>
+				
+	
+			A: Using the fill cost calculator
+				Q(1.2.1.2.2): 1) The link for the Fill Cost Calculator can be found at the bottom of the home page of the Promise Date Tool (found on the Q Drive in the PD Tool 2018 folder). <BR> 2) For the tool to provide you the correct information use the Dollar/PPL Calculation table and ensure to enter the customer's price per litre (found on the Delivery tab of the customer's account) <BR> 3) Enter the desired dollar amount for the delivery <BR> 4) Enter the delivery fees the customer is billed (found in the Accounts Receivable Add-ons screen <BR><BR> Here is a link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Order%20Creation%20-%20Minimum%20Fill%20Requests.aspx#title6">Using the Fill Cost Calculator</a>
+				A: Click to continue...
+					Q(1.2.1.2.2.1): Does that answer your question?
+					A: Yes
+						Q(1.2.1.2.2.1.1): Have a great day! <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:57.5%;position:relative;"><iframe width="360" height="207" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6ckyt9"></iframe></div><p><a href="https://imgflip.com/gif/6ckyt9">via Imgflip</a></p></div>
+					A: No 
+						Q(1.2.1.2.2.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime.  
+
+			A: Order creation
+				Q(1.2.1.2.3): When a customer requests a minimum fill, please remember to enter the specific liters in the delivery units field in ADDs.  
+			A: Text - One time text message
+				Q(1.2.1.2.4): Please indicate the minimum fill request in the text field as well.  <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Order%20Creation%20-%20Minimum%20Fill%20Requests.aspx#title11" target="_blank">Here</a> is a link to the Wiki for formatting 
+		
+		
+		A: ETA
+			Q(1.2.1.3): Is the customer critical or non-critical?
+			A: Critical
+				Q(1.2.1.3.1): Looking for ETA log should only be used if cx has a CR appliance with a missed PD but is not OOG. OOG means 15% or less for large commercial or 5% or less for small commercial/residential. <BR><BR> Small commercial that uses a lot of propane quickly and would disrupt operations for them and their employees should be treated the same as large commercial. <BR><BR> Does this answer your question?
+				A: Yes	
+					Q(1.2.1.3.1.1): <div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:57.5%;position:relative;"><iframe width="360" height="207" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6ckyt9"></iframe></div><p><a href="https://imgflip.com/gif/6ckyt9">via Imgflip</a></p></div>
+				A: No
+					Q(1.2.1.3.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime.
+ 
+			A: Non-critical
+				Q(1.2.1.3.2): ETA logs are not used for NC appliances, even if missed PD. Please use the Days Reminding Calculator/Sensor site in conjunction with PD tool to get a new PD and follow the 
+delivery order modification process. Even if customer is remote. <BR><BR> If customer was given multiple PDs and they have all been missed, this would become an escalation.  <BR><BR> Especially if the customer won't accept anything less than an guaranteed date (retention risk).  Does this answer your question?
+				A: Yes
+					Q(1.2.1.3.2.1): <iframe width="260" height="146" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6cdz7n"></iframe>
+				A: No 
+					Q(1.2.1.3.2.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime.
+		A: Delivery OOG requests
+			Q(1.2.1.4): Is this a residential customer with <5% or commercial customer < 15%?  
+			A: Yes
+				Q(1.2.1.4.1): Are they critical or non critical? <BR><BR> A customer is considered critical if they are out of gas and the propane is being used for residential main heat, an auto customer using propane for cooking or hot water or commercial applications such as agriculture, oilfields or lines of business where loss of propane results in stop of operations <BR><BR>
+A customer is considered non-critical if they are out of gas and propane is being used for non-essential appliances (i.e. fireplace not for main heat, BBQ, dryer, fridge) <BR><BR> A will call customer using propane for a cook stove or water heater or customer indicates the request is non-critical.​
+				A: Critical
+					Q(1.2.1.4.1.1): Is this during business hours or after hours?
+					A: Business hours
+						Q(1.2.1.4.1.1.1): If the customer called during business hours, please follow the following process: <BR> 1) Check the PD Tool to determine promise date. <BR> 2) Call or message (using Teams) the Delivery Coordinator to confirm ETA <BR> 3) If contact made, create order with date provided. <BR> 4) If no contact, send Out of Gas log to Delivery Coordinator and create order based on date in PD Tool 
+						A: Here is the link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Out%20of%20Gas%20Requests.aspx#title5" target="_blank">Delivery Out of Gas Requests</a>
+							Q(1.2.1.4.1.1.1.1): Does that answer your question?
+							A: Yes
+								Q(1.2.1.4.1.1.1.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>
+							A: No
+								Q(1.2.1.4.1.1.1.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime.
+				A: Non-critical
+					Q(1.2.1.4.1.2): A customer is considered non-critical if they are out of gas and propane is being used for non-essential appliances (i.e. fireplace not for main heat, BBQ, dryer, fridge), a will call customer using propane for a cook stove or water heater or customer indicates the request is non-​​critical. Is this customer non-critical?
+					A: Yes
+						Q(1.2.1.4.1.2.1): Please do the following		
+						A: Check the PD Tool to determine promise date
+						A: Provide promise date to customer and creates delivery order.
+						A: If customer is still upset with the deliver by date, review annual consumption
+						A: ​​If consumption <2000 lts.  and customer still not satisfied, escalate to CE Supervisor/Manager <br>
+If consumption >2000 lts. reduce PD date by 1 – 2 days unless on cities list, if customer still not satisfied, escalate to CE Supervisor/CE Manager​
+							Q(1.2.1.4.1.2.1.4): Does this answer your question:
+							A: Yes 
+								Q(1.2.1.4.1.2.1.4.1): Great! Have a good day!
+							A: No 			
+								Q(1.2.1.4.1.2.1.4.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime 
+					
+			A: No
+				Q(1.2.1.4.2): Please see ETA section
+		A:COD delivery requests
+			Q(1.2.1.5): Please choose an option:
+			A: Payment options
+				Q(1.2.1.5.1): 1) Manual payment by credit card <BR> 2) Online payment (you must obtain date of payment, conformation code and amount <BR><BR> We no longer accept cheques from customer at time of delivery <BR><BR> If  a COD customer has a balance, it must be paid along with the delivery.
+				A: Click here for a link to the KM page <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Cash%20on%20Delivery%20Accounts.aspx#title5" target="_blank">COD Payment Options</a>
+					Q(1.2.1.5.1.1): Does that answer your question?
+					A: Yes
+						Q(1.2.1.5.1.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>
+					A: No
+						Q(1.2.1.5.1.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+			A: Releasing an account from hold
+				Q(1.2.1.5.2): ​Once we have obtained payment method, the order request can be processed <BR> It's important to release the hold and enter a reinstate date 2 days after the PD given <BR> If the confirmation number was provided by the customer, please add it in the notes section ​of the Credit Actions window.​ <BR><BR> Follow the SOP on how to Release from Hold Until​​. <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Cash%20on%20Delivery%20Accounts.aspx#title7" target="_blank">Releasing a hold</a>
+			A: Pre-Calculating fuel charge
+				Q(1.2.1.5.3): Please review the Daily Updates / Regional Exceptions & Alerts tab and the Promise Date Tool for minimum fills and any exceptions <BR><BR> Ensure you are using the fill cost calculator on the main page of the Promise Date tool to calculate delivery costs
+				A: Here's a link for one time text formatting <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Order%20Creation%20-%20Bulk.aspx#title11" target="_blank">One time text formatting</a>
+					Q(1.2.1.5.3.1): Did this answer your question?
+					A: Yes
+						Q(1.2.1.5.3.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>
+					A: No
+						Q(1.2.1.5.3.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+							
+	A: After hours
+		Q(1.2.2): Is the customer calling on a weekday or weekend?
+		A: Weekday
+			Q(1.2.2.1): If the customer able to wait until the next day?
+			A: Yes
+				Q(1.2.2.1.1): If the customer is able to wait until the next day, <ol>
+  <li>Place the delivery order</li>
+  <li>Send a log to the DC</li>
+</ol> Does this answer your question?
+				A: Yes 
+					Q(1.2.2.1.1.1):<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>
+				A: No
+					Q(1.2.2.1.1.2):This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+ 
+
+			A: No
+				Q(1.2.2.1.2): Is the customer OOG?
+				A: Yes
+					Q(1.2.2.1.2.1): If the customer says they are OOG, did you ask all the troubleshooting questions? <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Out%20of%20Gas%20Requests.aspx#title2" target="_blank">Click here to review</a> <BR><BR> Is the customer confirmed OOG?
+					A: Yes
+						Q(1.2.2.1.2.1.1): Are they critical or non-critical? <br><br>A customer is considered critical if they are out of gas and the propane is being used for residential main heat, an auto customer using propane for cooking or hot water or commercial applications such as agriculture, oilfields or lines of business where loss of propane results in stop of operations
+						A: Critical
+							Q(1.2.2.1.2.1.1.1):Gather all the relevant information and follow the after hours process: <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/After%20Hours%20Delivery%20Process.aspx#title0" target="_blank">Delivery After Hours</a> <br><br>Please remember to leave the back door number along with your extension (877-763-3556 or 1-866-412-5639) along with your phone extension when leaving a message for the driver.  <BR><BR> After leaving a message, please send an email to the driver with the caller details  <BR> If after three attempts you are unable to reach the on-call driver, refer to the <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/After%20Hours%20Delivery%20Process.aspx#title8" target="_blank">Priority of Resources</a> found in the <a href="http://sppwebpdnj04/After/AfterH_schedule_grid.asp" target="_blank">After Hours Tool</a>  
+	`					
+						A: Non-critical
+							Q(1.2.2.1.2.1.1.2): If the customer agrees to to express fees and want delivery sooner or same day, please dispatch the on call driver and let them know the customer will pay express fees <BR><BR> Please document the amount quoted to the customer in ADDs. <BR><BR> Don't forget to enter a ticket!<br><br>
+<a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/After%20Hours%20Delivery%20Process.aspx#title3" target="_blank">Here's a link to the Wiki for non critical customers</a> and <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/CE%20Winter%20Strategy.aspx#title9" target="_blank">Here's a link to Express fees</a>
+					A: No
+						Q(1.2.2.1.2.1.2): Please create a ticket and send a log to the DC if the customer requires delivery. You can also reassure the customer using the <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Days%20Remaining%20Calculator.aspx#title1">Days Remaining Calculator</a> and sensor readings.
+				A: No
+			
+			
+				
+			
+
+		A: Weekend
+			Q(1.2.2.2): Is the customer OOG and have you confirmed the<a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Out%20of%20Gas%20Requests.aspx#title1" target="_blank">OOG Troubleshooting questions?</a>
+			A: Yes
+				Q(1.2.2.2.1): Are they able to wait until the next business day?
+				A: Yes
+					Q(1.2.2.2.1.1): If they customer can wait until the next business day, <ul>
+  <li>Create a ticket</li>
+  <li>Send a log to the Delivery Coordinatror</li>
+</ul>  
+
+				A: No
+					Q(1.2.2.2.1.2): Are they critical or non-critical? <br><br> A customer is considered critical if <ul>
+  <li>They are out of gas and the propane is being used for residential main heat</li>
+  <li>An auto customer using propane for cooking or hot water</li>
+  <li>Commercial applications such as agriculture, oilfields or lines of business where loss of propane results in stop of operations</li>
+</ul>  
+  
+					A: Critical
+						Q(1.2.2.2.1.2.1): <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/After%20Hours%20Delivery%20Process.aspx#title7" target="_blank">Please follow the weekend support process</a>
+					A: Non-critical
+						Q(1.2.2.2.1.2.2): Is the customer willing to pay Express Fees?  <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/CE%20Winter%20Strategy.aspx#title9" target="_blank">Click here to review Express Fee amounts</a>
+						A: Yes
+							Q(1.2.2.2.1.2.2.1): Please contact the <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/After%20Hours%20Delivery%20Process.aspx#title7" target="_blank">Weekend coordinator</a> to see if it's possible to deliver this weekend
+						A: No
+							Q(1.2.2.2.1.2.2.2): Please advise the customer to wait until the PD date.  We can only offer express delivery if they are willing to pay the express fee.
+			A: No 
+				Q(1.2.2.2.2): Please reassure the customer using <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Days%20Remaining%20Calculator.aspx#title7" target="_blank">Days Remaining Calculator</a> and sensor readings if applicable
+	
+		A: I received an after hours page out and the driver isn't returning my call!
+			Q(1.2.2.3): If after three attempts, you are unable to reach the on-call driver, refer to the <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/After%20Hours%20Delivery%20Process.aspx#title8" target="_blank">Priority Order of Resources</a>, found in the <a href="http://sppwebpdnj04/After/AfterH_schedule_grid.asp" target="_blank">After Hours Tool</a> and follow the steps below until you are able to reach one of the designated contacts. 
+	A: Metered accounts
+		Q(1.2.3): Please choose and option
+		A: Identifying metered accounts
+			Q(1.2.3.1): The customer account can be identified in ADDs as th​eir Category Code in the ​Classification Panel will be displayed as 39 - Metered Account.​​  Do you want to see an example?
+			A: Yes 
+				Q(1.2.3.1.1): <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Metered%20Accounts.aspx#title2" target="_blank">Metered account</a>
+			A: No
+				Q(1.2.3.1.2): 
+		A: Where do I place deliveries?
+			Q(1.2.3.2): ​STK Accounts identifies the account where we can find the primary tank and where deliveries are placed, this account is the first to be created so the metered accounts are linked to it <br><br> <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Metered%20Accounts.aspx#title2" target="_blank">This link shows where you can find the primary tank and where deliveries are placed</a>
+		A: Customer is calling for delivery
+			Q(1.2.3.3):​​Customers on metered accounts will not normally call for a delivery as the STK transfer account they are connected to is typically on automatic set up with a tank sensor <br><br> ​If the customer is calling for delivery, <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Metered%20Accounts.aspx#title5" target="_blank">please review the following steps</a>
+
+		A: Meter Reading disputes
+			Q(1.2.3.4): If the customer is disputing the meter reading, send a Billing Err/Inv Disp log to the Regional (e.g. customer is located in Quebec, use QC Inventory Admin) ​​Inventory Administration team			
+	A: Cardlock
+		Q(1.2.4): Please choose an option
+		A: Customer needs/can't remember their PIN
+			Q(1.2.4.1): If a Cardlock customer enters the wrong PIN three times, their card will be locked <br> For PIN issues, please send an email to <a href=mailto:$Cardlock@superiorpropane.com subject="HTML link">$Cardlock</a> <br><br> Here's a link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Cardlock%20Inquiries.aspx#title6" target="_blank">PIN Issues</a>
+		A: Card doesn't work
+			Q(1.2.4.2): If the customer calls in saying his/her card is not working, you will need to obtain:<ul>
+  <li>Customer Cardlock card Number</li>
+  <li>Contact Name and Phone Number</li>
+  <li>Customer's ADDs Account Number</li>
+  <li>Details of the issue (What station is the error occurring/What error message are they receiving>/li
+</ul><br><br> BC - Please send an email to the $Cardlock mailbox or a Cardlock Account Inquiry Log to the  <a href="mailto:Cardlock@superiorpropane.com">$Cardlock mailbox</a>  resource group <br><br> ON​ - Please send an email to Patricia O'Toole.
+
+		A: Cardlock locations in BC
+			Q(1.2.4.3): <a href="https://superiorplus.sharepoint.com/sites/KM/Lists/KMS%20Library1/Cardlock%20Sites%20in%20BC.pdf" target="_blank">Please see the following document for a list of cardlock sites in BC: Cardlock Sites in BC</a>
+		A: Pricing Inquiries
+			Q(1.2.4.4): Cardlock resource group and mailbox do NOT handle pricing issues<ul>
+  <li>If a customer uses our cardlock, they will pay the price that is set up for their individual account (not the posted price).  If they use a non-cardlock fill station, they pay the price at the pump.</li>
+  <li>We do not put prices on our pumps as it can vary (fleet price vs. individual)</li>
+  <li>A Pricing Dispute log is to be sent to that Region's Pricing resource for any pricing issues</li>
+</ul>
+			A: How do I find the PPL?
+				Q(1.2.4.4.1):​ADDs does not provide the current price per litre (Street Price) for Cardlock customers <ul>
+  <li>If you see Card Propane and the BPC (Bulk Price Code) of 151 <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Cardlock%20Inquiries.aspx#title10" target="_blank">Linked here</a>, to find the Street Price (what the customer is paying), go to the Transactions, and the price per litre being charged will be shown in the Ppu column (0.5918 if the example​)</li>
+  <li>If you are unsure or cannot locate the price using Transactions, reach out to Michelle O'Grady to request the Street Price for the account in question. OGradyM@SuperiorPropane.com </li>
+</ul><br><br>Does that answer your question?
+				A: Yes
+					Q(1.2.4.4.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:105.77%;position:relative;"><iframe width="260" height="275" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6du249"></iframe></div><p><a href="https://imgflip.com/gif/6du249">via Imgflip</a></p></div>
+				A: No
+					Q(1.2.4.4.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+
+
+	
+		
+A: Billing
+	Q(1.3): Do you have a question about credit cards, pricing or rentals?
+	A: Credit cards
+		Q(1.3.1): Please choose and option below
+		A: Credit card error messages
+			Q(1.3.1.1): If you are receiving a credit card error, please check here for possible solutions <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Credit%20Card%20Payments%20(ADDs).aspx#title3" target="_blank">1)Credit card error messages</a>
+			A:And here <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Credit%20Card%20Payments%20(ADDs).aspx#title7" target="_blank">2)Credit card error messages</a>
+				Q(1.3.1.1.1): Did this answer your question?
+				A: Yes 
+
+					Q(1.3.1.1.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>
+<iframe width="260" height="219" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6cid6l"></iframe>
+				A: No 
+					Q(1.3.1.1.1.2): No This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> Please reach out to a Team Lead or Supervisor for assistance in the meantime.
+			
+		A: I lost my receipt! 
+			Q(1.3.1.2): Please email the TL for assistance.  They can draw one up for you. <a href="mailto:CETeamlead@superiorpropane.com">Send eamil</a> <BR> 
+		A: Autopay by credit card
+			Q(1.3.1.3): Is this a new card set up or existing card?
+			A: New card set up
+				Q(1.3.1.3.1): Here's the process for a new card set up
+				A: New Card set up <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Auto-Pay%20by%20CC%20-%20Setup%20New%20Card.aspx#title0">New card set up</a>
+					Q(1.3.1.3.1.1): Does this answer your question?
+					A: Yes
+						Q(1.3.1.3.1.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>
+					A: No	
+						Q(1.3.1.3.1.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+			A: Existing card
+				Q(1.3.1.3.2): Here is the process for an existing card
+				A: Existing card set up <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Auto-Pay%20by%20CC%20-%20Setup%20Existing%20Card.aspx#title2">Existing card set up</a>
+					Q(1.3.1.3.2.1): Does that answer your question?
+					A: Yes
+						Q(1.3.1.3.2.1.1): Have a good day! <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:65.77%;position:relative;"><iframe width="260" height="171" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d3u4b"></iframe></div><p><a href="https://imgflip.com/gif/6d3u4b">via Imgflip</a></p></div>
+					A:No 
+						Q(1.3.1.3.2.1.2):This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+						
+	A: Pricing
+		Q(1.3.2): Tell me about pricing options
+		A: Floating
+			Q(1.3.2.1): Floating prices are best for low volume customers who do not meet the minimum (500L) for a fixed price <br> And customers that would rather not lock in to a contract.  Want to know more?
+			A: Yes
+				Q(1.3.2.1.1): Customers on a floating price are charged the price on the day of delivery  <br> Check the Accounts Receivable Add-ons screen to see if a next fill or # of delivery discounts is applied to an account <br> <br> Do you want a link to the Wiki?
+				A: Yes
+					Q(1.3.2.1.1.1): <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Pricing%20Inquiries.aspx#title3" target="_blank">Floating options</a>
+				A: No 
+					Q(1.3.2.1.1.2): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>
+			A: No
+				Q(1.3.2.1.2): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div> 
+			
+		A: Fixed
+			Q(1.3.2.2): Please choose and option:
+			A: About
+				Q(1.3.2.2.1): What do you want to know about the plan?
+				A: What is Fixed Pricing?
+					Q(1.3.2.2.1.1): The fixed price plan locks the customer's rate in for a period of 1 year, starting on the 1st of the month and renews automatically each season. <br> A customer can enroll anytime of the year. <br><br> Please make sure the customer qualifies for the program by viewing the consumption.  <br><br> CER's are only able to enroll residential (LOB90) and small commercial (LOB 40).  Any other LOB should be referred to the MM for review <br><br> Here is a link to the Wiki for more information <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Fixed%20Price%20Plan%20-%20New%20Enrollments.aspx#title2" target="_blank">Fixed Price Plans</a>
+				A: What are the benefits?
+					Q(1.3.2.2.1.2): <ul>
+  <li>Great program for customers who like to have stability on their price per liter all year</li>
+  <li>Peace of mind - If propane prices rise, they don't have to worry</li>
+  <li>Renewal is automatic</li>
+  <li>Can help to effectively budget year round heating costs</li>
+  <li>Immune to unstable market prices</li>
+  <li>Great retention solution when customers are concerned about their PPL.​</li>
+</ul>  
+
+				A: Eligibility
+					Q(1.3.2.2.1.3): <ul>
+  <li>Must be a residential or small commercial home heat customer **Note** Buying Groups​ (Association) customers are not eligible to enroll individually as t​heir member representatives work with our Account Managers directly to discuss rates. Refer to the <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Buying%20Group%20Associations.aspx" target="_blank">Buying Groups/Associations Wiki page</a> for further details (</li>
+  <li>Need to consume a total of 500L+ in the previous calendar year (or be forecasted to use this volume in the upcoming year.)</li>
+  <li>Verbal Verification Agreement​​ process must be completed.</li>
+  <li>Account must be in a good standing (​Failure to remain in good standing runs the risk of being de-enrolled and a de-enrollment fee being applied to the account)</li>
+  <li>A tenant can be enrolled in FPP, as long as they are authorized on the account</li>
+  <li>Customers who reside in regulated markets may not be eligible. See the National Pricing Tool for provinces affected</li>
+  <li><a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Fixed%20Price%20Plan%20-%20New%20Enrollments.aspx#title4" target="_blank">Read more about it here</a>
+</ul>
+  
+
+				A: Terms
+					Q(1.3.2.2.1.4): <ul>
+  <li><a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Fixed%20Price%20Plan%20-%20New%20Enrollments.aspx#title5" target="_blank">A verbal verification must be completed with the customer</a></li>
+  <li>Customers automatically renew each year into a new plan upon expiry unless they choose to opt-out of the plan 30 days before the expiry of the current plan/li>
+  <li>If the customer decides to de-enroll early, a fee of $250.00 per account ​​​​(plus applicable taxes).  A customer can advise us they don't want to continue with the program at anytime during the year and they are only to be charged if they are asking for the program to be terminated early.</li>
+  <li>A customer has 10 business days from the date of the enrollment contract letter to de-enroll without a penalty.  This is not applicable for renewal customers</li>
+  <li>Customers who have exceeded the cap of 15,000 litres are automatically removed from the plan.  In these cases, send a log to the regional price desk to review the account</li>
+</ul>  
+
+			A: Recognizing Active FPP
+				Q(1.3.2.2.2):When a customer is on a Fixed Price Plan there will be an Alert in the Alert bar saying "SLPP" <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Fixed%20Price%20Plan%20-%20New%20Enrollments.aspx#title6" target="_blank">The details of the fixed price plan can be viewed in the delivery tab under the pricing sub tab</a>
+<ul>
+  <li>​​Current and past plan details can be viewed here, including the number of litres remaining under the current plan</li>
+  <li>Once a customer exceeds the 15,000 litre maximum, they will be removed off of the plan. If the customer has gone over or will be going over the 15,000 litre cap, send a log to the regional price desk </li>
+  <li>We can also see if the customer has a promotion (number of deliveries or number of free litres).  The new fixed price would take effect after the current promotion is used up.</li>
+</ul>  
+
+			A: New Enrollment Information
+				Q(1.3.2.2.3): Please choose and option:
+				A: Criteria for enrollment
+					Q(1.3.2.2.3.1): A new enrollment for the Fixed Price Plan can be defined by one of the following <ul>
+  <li>A customer that is not currently enrolled on a FPP</li>
+  <li>​A customer that is not currently enrolled in an Association Buying Group​​ (Association customers must go through the Region's Pricing Team).</li>
+  <li>A customer that has previously been enrolled on a FPP however did not complete renewal before expiry of current plan</li>
+  <li>A customer that has a de-enrollment log on their account at so​me point during the current plan time period</li>
+</ul>  
+	
+				A: Process to enroll
+					Q(1.3.2.2.3.2): These are the steps to take when enrolling a customer in FPP <ul>
+  <li>Confirm the customer is eligible for Fixed Pricing</li>
+  <li>Confirm the customer is ready to go ahead with the enrollment</li>
+  <li>Advise the customer that they will be taken through a verbal verification process for the Fixed Price Agreement</li>
+  <li>Read ALL of the Verbal Verification statements to the customer</li>
+  <li>Set up the customer on Fixed Pricing</li>
+  <li>Send the customer the Fixed Price Agreement for their records (no signature is required)</li>
+<li>Create an FPP Enrollment log with the details of the offer to document</li>
+</ul>  
+
+
+			A: Process
+				Q(1.3.2.2.4):Before proceeding, always make sure the customer is not already on a Fixed Price plan and that they meet the eligibility criteria and understand the terms of the offer
+				A: First Step: Determine Price
+					Q(1.3.2.2.4.1):   Find out where the propane will be coming from for the customer. <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Fixed%20Price%20Plan%20-%20New%20Enrollments.aspx#title10" target="_blank">Look up the Delivery Centre in the Delivery Tab</a>
+
+			
+		A: Rack	
+			Q(1.3.2.3): What is rack and who qualifies?
+			A: Rack ​pricing that is set up only for our very large commercial accounts.  It is not common because rack pricing needs approval from the VP. Click to see an example of Rack in ADDs
+				Q(1.3.2.3.1): <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Pricing%20Inquiries.aspx#title5" target="_blank">Rack</a>
+		A: Next fill (NFD)
+			Q(1.3.2.4): Please choose and option 
+			A: What is a NFD?
+				Q(1.3.2.4.1): A discount given to customers as a cents off offer available on the floating price only. <br>  The NFD's can be found on the National Pricing Tool for Residential & Small Commercial. <br><br> For complete directions on how to use the tool, refer to the <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Pricing%20Inquiries.aspx#title7" target="_blank">Pricing took Wiki page</a> <br><br> Does that answer your question?
+				A: Yes
+					Q(1.3.2.4.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:105.77%;position:relative;"><iframe width="260" height="275" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6du249"></iframe></div><p><a href="https://imgflip.com/gif/6du249">via Imgflip</a></p></div>
+				A: No
+					Q(1.3.2.4.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+			A: Where do I check for it in ADDs?
+				Q(1.3.2.4.2): <ul>
+  <li>Located in the Bookkeeping section in ADDs </li>
+  <li>If there is a next fill or # of delivery discounts applied to an account, it will only be visible here</li>
+  
+</ul> 
+				A: Click for a link to the Wiki
+					Q(1.3.2.4.2.1): <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Pricing%20Inquiries.aspx#title7" target="_blank">NFDs</a>
+
+			A: How long does the discount apply?
+				Q(1.3.2.4.3): The NFD can be offered as an option to customers for a maximum of one year only, with the exception of regulated markets <ul>
+  <li>Next fill discounts in regulated markets in the Atlantic region (New Brunswick, Prince Edward Island and Newfoundland) can only be offered to customers for a three month period​</li>
+  <li>It would apply to all deliveries between the set up date and the expiration date </li>
+</ul>  
+				A: Click for a link to the Wiki for more info
+					Q(1.3.2.4.3.1): <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Pricing%20Inquiries.aspx#title7" target="_blank">NFDs</a>
+
+			
+	A: Rentals
+		Q(1.3.3): Please choose an option
+		A: Customer says they own their tank
+			Q(1.3.3.1): <ul>
+  <li>If the customer is saying they own the tank and we are charging them rental, reach out to the Regional Service Admin to see if a contract exists for the rental </li>
+  <li>Ask the customer if they have a bill of sale for the contract</li>
+  <li>If no resolution is found, send an email to the Market Manager, he is able to dissolve Superior Propane's interest in the asset</li>
+  <li> It would be required to log all notes in a Escalation-1st Lvl escalation log and add a copy of the email</li>
+</ul>  
+			A: Click here for a link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Rental%20Disputes.aspx#title1" target="_blank">Tank ownership</a>
+				Q(1.3.3.1.1): Does this answer your question?
+				A: Yes 
+					Q(1.3.3.1.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>
+				A: No
+					Q(1.3.3.1.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+		A: Renal buyouts
+			Q(1.3.3.2): The most common buyouts are hot water heaters and furnaces. <br> The requests are sent to out Buy Out Team.  For any other equipment buyout, please reach out to the Market Manager. <br><br> To obtain a quote for a hot water heater, reach out to the Hot Water Heater buyout line.   You can use a manual text log or an Equipment Buyout log. <br><br> Should a customer be interested in purchasing any rental asset (water heater, furnace, etc.), these calls can be transferred to the Water Heater Buyout line​ <br> <ul>
+  <li>Ontario:  750-5893</li>
+  <li>Atlantic:  750-5893</li>
+  <li>French:  750-5893</li>
+</ul>  <		A:<a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Rental%20Disputes.aspx#title2" target="_blank">Link to the Wiki</a>			
+
+		A: Tank rental rate dispute
+			Q(1.3.3.3): If a customer is disputing their rental rate, you can reduce the rate up to 25% (with the exception of Quebec) <br> <ul>
+  <li>This can be done as a one time offer or permanently</li>
+  <li>If a greater discount is required, Customer Care, Team Lead or Market Manager approval is required</li>
+  <li>​​Use a Billing AdjustAdministrative log to detail the Front Line adjustment completed for a one time discount</li>
+  <li>To reduce the rental rate for upcoming renewals, CERs can send a Rental Rate Adj. log to the Regional Service Admin resource to adjust the rental contract.</li>
+  <li>Consider other options that can be used to to retain the customer, such as a SMART tank rental, Next Fill Discount, FPP etc</li>
+</ul>  
+			A: There are some exceptions to these rules. Click to continue
+				Q(1.3.3.3.1): CER's are not empowered to adjust the rental rates under the following circumstances: <br> <ul>
+  <li>Standard SMART Tank rentals are NOT eligible for discounts</li>
+  <li>Low volume customers are not eligible for a reduced rental rate.</li>
+  <li>In Quebec, rentals are not to be adjusted.   If the customer cites the Protection du consomateur, we must revert the rental back to original rate for 1 year only
+				A: Here is a link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Rental%20Disputes.aspx#title3" target="_blank">Rental rate reduction</a>
+					Q(1.3.3.3.1.1): Does that answer your question?
+					A: Yes
+						Q(1.3.3.3.1.1.1): Great! <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:65.77%;position:relative;"><iframe width="260" height="171" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d3u4b"></iframe></div><p><a href="https://imgflip.com/gif/6d3u4b">via Imgflip</a></p></div>
+					A: No 
+						Q(1.3.3.3.1.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+
+
+		A: No tank on site
+			Q(1.3.3.4): If the customer says they no longer have a tank at their location but are still being charged for the rental, here is the process <br><br> <ul>
+  <li>Gather as much information as possible, (when was the tank purchased, where the tank is located, did they recently purchase the home etc.) </li>
+  <li>Create a Service Call/Invoice Dispute log, include all information provided and assign to Reg Service Admin resource</li>
+  <li>If they cannot locate any further details relating to the sale, send email with the details to the $Fixed Assets Team to trace the equipment.</li>
+  <li>​If they cannot confirm the sale, send the information to the Service Coordinator for Site Visit</li> 
+  <li>If the issue is still not resolved, email the Market Manager.</li>
+</ul>  
+			A: Here is a link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Rental%20Disputes.aspx#title4" target="_blank">No tank on site</a>
+				Q(1.3.3.4.1): Does this answer your question?
+				A: Yes
+					Q(1.3.3.4.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>
+				A: No	
+					Q(1.3.3.4.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+
+	A:Cardlock
+		Q(1.3.4): Please choose an option
+		A: Customer needs/can't remember their PIN
+			Q(1.3.4.1): If a Cardlock customer enters the wrong PIN three times, their card will be locked <br> For PIN issues, please send an email to <a href=mailto:$Cardlock@superiorpropane.com subject="HTML link">$Cardlock</a> <br><br> Here's a link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Cardlock%20Inquiries.aspx#title6" target="_blank">PIN Issues</a>
+		A: Card doesn't work
+			Q(1.3.4.2): If the customer calls in saying his/her card is not working, you will need to obtain:<ul>
+  <li>Customer Cardlock card Number</li>
+  <li>Contact Name and Phone Number</li>
+  <li>Customer's ADDs Account Number</li>
+  <li>Details of the issue (What station is the error occurring/What error message are they receiving>/li
+</ul><br><br> BC - Please send an email to the $Cardlock mailbox or a Cardlock Account Inquiry Log to the  <a href="mailto:Cardlock@superiorpropane.com">$Cardlock mailbox</a>  resource group <br><br> ON​ - Please send an email to Patricia O'Toole.
+
+		A: Cardlock locations in BC
+			Q(1.3.4.3): <a href="https://superiorplus.sharepoint.com/sites/KM/Lists/KMS%20Library1/Cardlock%20Sites%20in%20BC.pdf" target="_blank">Please see the following document for a list of cardlock sites in BC: Cardlock Sites in BC</a>
+		A: Pricing Inquiries
+			Q(1.3.4.4): Cardlock resource group and mailbox do NOT handle pricing issues<ul>
+  <li>If a customer uses our cardlock, they will pay the price that is set up for their individual account (not the posted price).  If they use a non-cardlock fill station, they pay the price at the pump.</li>
+  <li>We do not put prices on our pumps as it can vary (fleet price vs. individual)</li>
+  <li>A Pricing Dispute log is to be sent to that Region's Pricing resource for any pricing issues</li>
+</ul>
+			A: How do I find the PPL?
+				Q(1.3.4.4.1):​ADDs does not provide the current price per litre (Street Price) for Cardlock customers <ul>
+  <li>If you see Card Propane and the BPC (Bulk Price Code) of 151 <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Cardlock%20Inquiries.aspx#title10" target="_blank">Linked here</a>, to find the Street Price (what the customer is paying), go to the Transactions, and the price per litre being charged will be shown in the Ppu column (0.5918 if the example​)</li>
+  <li>If you are unsure or cannot locate the price using Transactions, reach out to Michelle O'Grady to request the Street Price for the account in question. OGradyM@SuperiorPropane.com </li>
+</ul><br><br>Does that answer your question?
+				A: Yes
+					Q(1.3.4.4.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:105.77%;position:relative;"><iframe width="260" height="275" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6du249"></iframe></div><p><a href="https://imgflip.com/gif/6du249">via Imgflip</a></p></div>
+				A: No
+					Q(1.3.4.4.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+A: Service 
+	Q(1.4): Please choose and option 
+	A: Leak
+		Q(1.4.1): Is is Business Hours or After Hours
+		A: Business Hours
+			Q(1.4.1.1): <a href="https://superiorplus.sharepoint.com/sites/KM/Training/Clicklearn/Superior%20Propane%20Portal/Superior%20Propane%20Portal.aspx?b=Service%20Requests&r=Requesting%20Emergency%20Services%20(Business%20Hours)&portal=yes&frombook=yes" target="_blank">Requesting Emergency Services (Business Hours)</a>
+		A: After Hours
+			Q(1.4.1.2): <a href="https://superiorplus.sharepoint.com/sites/KM/Training/Clicklearn/Superior%20Propane%20Portal/Superior%20Propane%20Portal.aspx?b=Service%20Requests&r=Requesting%20Emergency%20Services%20(After%20Hours)&portal=yes&frombook=yes" target="_blank">Requesting Emergency Services (After Hours)</a>
+	A: Tank pick up	
+		Q(1.4.2): Please choose and option:
+		A: Placing a delivery stop on Tank Pick up Request
+			Q(1.4.2.1): <a href="https://superiorplus.sharepoint.com/sites/KM/Training/Clicklearn/Superior%20Propane%20Portal/Superior%20Propane%20Portal.aspx?b=Service%20Requests&r=Placing%20Delivery%20Stop%20on%20Tank%20Pick%20Up%20Request&portal=yes&frombook=yes" target="_blank">Placing Delivery Stop on Tank Pick Up Request</a>
+		A: Placing Delivery Stop & Evac Request During Tank Pick Up
+			Q(1.4.2.2): <a href="https://superiorplus.sharepoint.com/sites/KM/Training/Clicklearn/Superior%20Propane%20Portal/Superior%20Propane%20Portal.aspx?b=Service%20Requests&r=Placing%20Delivery%20Stop%20%26%20Evac%20Request%20During%20Tank%20Pick%20Up&portal=yes&frombook=yes" target="_blank">Placing Delivery Stop & Evac Request During Tank Pick Up</a>
+		A: Tank Pick Up Request	
+			Q(1.4.2.3):<a href="https://superiorplus.sharepoint.com/sites/KM/Training/Clicklearn/Superior%20Propane%20Portal/Superior%20Propane%20Portal.aspx?b=Service%20Requests&r=Tank%20Pick%20Up%20Request&portal=yes&frombook=yes" target="_blank">Tank Pick Up Request</a>														
+   		A: Tank or Equipment Repair Request
+	A:Tank or Equipment Repair Request
+		Q(1.4.3): Please choose and option
+		A:Tank or Equipment Repair Request
+			Q(1.4.3.1):<a href="https://superiorplus.sharepoint.com/sites/KM/Training/Clicklearn/Superior%20Propane%20Portal/Superior%20Propane%20Portal.aspx?b=Service%20Requests&r=Tank%20or%20Equipment%20Repair%20Request&portal=yes&frombook=yes" target="_blank">Tank or Equipment Repair Request</a>			
+  			A:
+		
+A: Miscellaneous questions
+	Q(1.5): Miscellaneous questions<br><br> Please choose a category
+	A: Delivery
+		Q(1.5.1): Please choose and option:
+		A: Customer received full fill/order min/partial fill
+			Q(1.5.1.1): When an overfill occurs, we want to avoid having to pump out the fuel. <ul>
+  <li>Best option is to offer a reduction in the Price Per Litre</li>
+  <li>Second option is to offer extended payment arrangements. <br> ​If it was a Superior error, you can offer up to 3 months payment arrangement.  No further deliveries until fully paid</li>
+  <li>Use an Acct Inquiry/Bal Detail log to capture the conversation details with the customer</li>
+  <li>Do you want a link to the Wiki?
+</ul>  
+			A: Yes
+				Q(1.5.1.1.1):<a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Disputes.aspx#title3" target="_blank">Overfills</a>
+			A: No
+				Q(1.5.1.1.2): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:73.85%;position:relative;"><iframe width="260" height="192" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6ekoir"></iframe></div><p><a href="https://imgflip.com/gif/6ekoir">via Imgflip</a></p></div>
+				
+						
+		A: Customer did not receive delivery
+			Q(1.5.1.2): Some customers don't think they received delivery <BR> We could have delivered to the wrong location <BR> The customer burned through more fuel than expected. You can ask the following questions <br><br> Does the customer have a delivery slip for the delivery in question? <br> If the dispute involves the most recent delivery, do they know what the tank percentage is currently? <BR><BR> If this does not resolve the issue (ie delivery as some time ago and the customer may have used the propane) the longitude and latitude must be used to try to pinpoint where the delivery was made <BR><BR> Steps to determine this are found in <a href="https://superiorplus.sharepoint.com/:w:/r/sites/KM/_layouts/15/Doc.aspx?sourcedoc=%7B9E7B4B99-59ED-40F3-99B8-7CBBF15F666F%7D&file=Finding%20Proof%20of%20Delivery%20-%20Options.docx&action=default&mobileredirect=true&DefaultItemOpen=1" target="_blank">Finding proof of delivery</a>
+
+		A: Delivery fees
+			Q(1.5.1.3): Delivery fees can be credited on a one time basis; however, if the customer mentions a trigger, the Customer Care Team has further empowerment to help keep the customer if needed. <BR><BR> All changes to delivery fees must be completed by the Regional Pricing Team. <BR><BR>The request is initiated by sending a AR Addons Delivery Fee log. <BR><BR> Exception - The SAC Admin team can waive fees for the first year if advised by the Customer Care team. <BR><BR> To request the credit for the delivery fees, send a Billing Adjust/Administrative log. <br><br> Do you want a link to the Wiki?
+			A: Yes
+				Q(1.5.1.3.1): <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Delivery%20Disputes.aspx#title1">Delivery fees</a>
+			A:No
+				Q(1.5.1.3.2): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:55.77%;position:relative;"><iframe width="260" height="145" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0yoy"></iframe></div><p><a href="https://imgflip.com/gif/6d0yoy">via Imgflip</a></p></div>	
+		A: Driver won't pick up after hours
+			Q(1.5.1.4): If after three attempts, you are unable to reach the on-call driver, refer to the <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/After%20Hours%20Delivery%20Process.aspx#title8" target="_blank">Priority Order of Resources</a>, found in the <a href="http://sppwebpdnj04/After/AfterH_schedule_grid.asp" target="_blank">After Hours Tool</a> and follow the steps below until you are able to reach one of the designated contacts. 
+	A: Service
+		Q(1.5.2):Please choose and option below
+		A: Leak call - Cannot reach technician
+			Q(1.5.2.1):Is this during business hours or after hours?
+			A: Business hours
+				Q(1.5.2.1.1): If you can't reach the Service Coordinator, keep the customer on the phone and<a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Propane%20Odour%20%26%20Carbon%20Monoxide%20Procedure.aspx#title18" target="_blank">follow this procedure</a>
+			A: After hours 
+				Q(1.5.2.1.2): If you can't reach a technician right away, please keep the customer on the phone and <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Propane%20Odour%20%26%20Carbon%20Monoxide%20Procedure.aspx#title19" target="_blank">follow this procedure</a> 	
+	A: Pricing issues
+		Q(1.5.3): What is the issue?
+		A: Customer is unhappy with their floating price
+			Q(1.5.3.1): Is the customer usage over 500 liters?
+			A: Yes
+				Q(1.5.3.1.1): Have you offered everything within your empowerment?
+				A: Yes
+					Q(1.5.3.1.1.1): If the customer is not satisfied with your offer, please reach out to the MM.  You can use the email assist tool (pricing escalation)
+					A: Here is a link to the Wiki for the Pricing Dispute log <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Pricing%20Inquiries.aspx#title3" target="_blank">Pricing dispute log</a>
+						Q(1.5.3.1.1.1.1): Does that answer your question?
+						A: Yes
+							Q(1.5.3.1.1.1.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:105.77%;position:relative;"><iframe width="260" height="275" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6du249"></iframe></div><p><a href="https://imgflip.com/gif/6du249">via Imgflip</a></p></div>
+						A: No 
+							Q(1.5.3.1.1.1.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+
+				A: No
+					Q(1.5.3.1.1.2): Please offer what you can within your empowerment.  NFD or other appeasement.  
+					A: Here is a link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Pricing%20Inquiries.aspx#title3">Pricing dispute log</a>
+						Q(1.5.3.1.1.2.1): Does that answer your question?
+						A: Yes
+							Q(1.5.3.1.1.2.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:56.15%;position:relative;"><iframe width="260" height="146" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0okr"></iframe></div><p><a href="https://imgflip.com/gif/6d0okr">via Imgflip</a></p></div>
+
+						A: No
+							Q(1.5.3.1.1.2.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+			A: No
+				Q(1.5.3.1.2):If the customer is under 500 liters, please reach out to Care.  
+				A: Log usage: Pricing dispute and resource is Retention Rep.
+					Q(1.5.3.1.2.1): Does that answer your question?
+					A: Yes
+					A: No
+						Q(1.5.3.1.2.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance 
+			 
+		A: Customer is unhappy with their FPP
+			Q(1.5.3.2): <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Fixed%20Price%20Plans%20-%20Renewals.aspx#title6" target="_blank">FPP Renewals</a>
+		A: Customer is unhappy with their PPL buying group
+			Q(1.5.3.3): Buying Groups and Customers Flagged with an Association Alert cannot be offered discounts by CERs or Customer Care <br><br> These calls must be directed to the Regional Price Desk via log.
+		
+		A: Price increases
+			Q(1.5.3.4): Please choose an option:
+			A: FPP price increase
+				Q(1.5.3.4.1): If the customer received a renewal and isn't  happy with the new price offer <ul>
+  <li>Explain the benefits that Superior Propane offers (e.g. Web Portal, Smart Tanks, No Run Out Guarantee, etc.).</li>
+  <li>Educate on increases at refinery level, exports to other countries, supply and demand, global political climate.</li>
+  <li>Avoid discounts for customers under 700 litres of consumption.</li>
+ 
+</ul> <br><br>Did the customer receive a competitive offer?
+				A: Yes
+					Q(1.5.3.4.1.1): <ul>
+  <li>Ask for details - Who is the competition? float? promo price?</li>
+  <li>Discuss key factors - Discuss possible reasons for different customer prices (e.g. volume, timing and location)</li>
+  <li>Offer 2-3 cents - above the competitive offer (if within your  empowerment)​</li>
+  <li>Avoid discounts - For any customers under 700 litres of consumption​</li>
+  <li>Price match - Match the competitor offer if a tank pick up is requested and is within your empowerment level​</li>
+</ul><br><br> Is the customer satisfied?
+					A: Yes
+						Q(1.5.3.4.1.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:105.77%;position:relative;"><iframe width="260" height="275" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6du249"></iframe></div><p><a href="https://imgflip.com/gif/6du249">via Imgflip</a></p></div>
+					A: No
+						Q(1.5.3.4.1.1.2): Please follow the escalation process by clicking <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Fixed%20Price%20Plans%20-%20Renewals.aspx#title25" target="_blank">HERE</a>
+
+				A: No 
+
+			A: Rental increase
+				Q(1.5.3.4.2):Superior has the right to increase tank rental.  There may have been an increase due to low volume. It could also be necessary to review the <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/GRA%20Residential%20%26%20Small%20Commercial.aspx" target="_blank">Residential & Small Commercial rental agreement</a>​ to see if tiered contract pricing is offered <br><br> <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Rental%20Billing%20(Service%20Contracts)%20and%20Adjustments.aspx#title9" target="_blank">Here are steps to finding the GRA</a> <br><br> Is the customer asking for a rental reduction?
+				A: Yes 
+					Q(1.5.3.4.2.1):If a tank rental increase has been processed, use positioning with the customer (inflation, costs to maintain asset) and please advise of our SMART Tank Strategy option for standardized pricing. <br? Discounts on SMART Tanks can only be done with approval from the BM or GM. <br><br> If you have agreed to modify the tank rental, please click <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Rental%20Billing%20(Service%20Contracts)%20and%20Adjustments.aspx#title11" target="_blank">HERE</a>
+				A: No
+	A: Billing issues
+		Q(1.5.4): What is the issue?
+		A: Customer is unhappy with their floating price
+			Q(1.5.4.1): Is the customer usage over 500 liters?
+			A: Yes
+				Q(1.5.4.1.1): Have you offered everything within your empowerment?
+				A: Yes
+					Q(1.5.4.1.1.1): If the customer is not satisfied with your offer, please reach out to the MM.  You can use the email assist tool (pricing escalation)
+					A: Here is a link to the Wiki for the Pricing Dispute log <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Pricing%20Inquiries.aspx#title3" target="_blank">Pricing dispute log</a>
+
+				A: No
+					Q(1.5.4.1.1.2): Please offer what you can within your empowerment.  NFD or other appeasement.  
+					A: Here is a link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Pricing%20Inquiries.aspx#title3">Pricing dispute log</a>
+						Q(1.5.4.1.1.2.1): Does that answer your question?
+						A: Yes
+							Q(1.5.4.1.1.2.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:56.15%;position:relative;"><iframe width="260" height="146" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6d0okr"></iframe></div><p><a href="https://imgflip.com/gif/6d0okr">via Imgflip</a></p></div>
+
+						A: No
+							Q(1.5.4.1.1.2.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+			A: No
+				Q(1.5.4.1.2):If the customer is under 500 liters, please reach out to Care.  
+				A: Log usage: Pricing dispute and resource is Retention Rep.
+					Q(1.5.4.1.2.1): Does that answer your question?
+					A: Yes
+					A: No
+						Q(1.5.4.1.2.1.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance 
+			 
+		A: Customer is unhappy with their FPP
+			Q(1.5.4.2): <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Fixed%20Price%20Plans%20-%20Renewals.aspx#title6" target="_blank">FPP Renewals</a>
+		A: Customer is unhappy with their PPL buying group
+			Q(1.5.4.3): Buying Groups and Customers Flagged with an Association Alert cannot be offered discounts by CERs or Customer Care <br><br> These calls must be directed to the Regional Price Desk via log.
+		
+		A: Price increases
+			Q(1.5.4.4): Please choose an option:
+			A: FPP price increase
+				Q(1.5.4.4.1): If the customer received a renewal and isn't  happy with the new price offer <ul>
+  <li>Explain the benefits that Superior Propane offers (e.g. Web Portal, Smart Tanks, No Run Out Guarantee, etc.).</li>
+  <li>Educate on increases at refinery level, exports to other countries, supply and demand, global political climate.</li>
+  <li>Avoid discounts for customers under 700 litres of consumption.</li>
+ 
+</ul> <br><br>Did the customer receive a competitive offer?
+				A: Yes
+					Q(1.5.4.4.1.1): <ul>
+  <li>Ask for details - Who is the competition? float? promo price?</li>
+  <li>Discuss key factors - Discuss possible reasons for different customer prices (e.g. volume, timing and location)</li>
+  <li>Offer 2-3 cents - above the competitive offer (if within your  empowerment)​</li>
+  <li>Avoid discounts - For any customers under 700 litres of consumption​</li>
+  <li>Price match - Match the competitor offer if a tank pick up is requested and is within your empowerment level​</li>
+</ul><br><br> Is the customer satisfied?
+					A: Yes
+						Q(1.5.4.4.1.1.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:105.77%;position:relative;"><iframe width="260" height="275" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6du249"></iframe></div><p><a href="https://imgflip.com/gif/6du249">via Imgflip</a></p></div>
+					A: No
+						Q(1.5.4.4.1.1.2): Please follow the escalation process by clicking <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Fixed%20Price%20Plans%20-%20Renewals.aspx#title25" target="_blank">HERE</a>
+
+				A: No 
+
+			A: Rental increase
+				Q(1.5.4.4.2):Superior has the right to increase tank rental.  There may have been an increase due to low volume. It could also be necessary to review the <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/GRA%20Residential%20%26%20Small%20Commercial.aspx" target="_blank">Residential & Small Commercial rental agreement</a>​ to see if tiered contract pricing is offered <br><br> <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Rental%20Billing%20(Service%20Contracts)%20and%20Adjustments.aspx#title9" target="_blank">Here are steps to finding the GRA</a> <br><br> Is the customer asking for a rental reduction?
+				A: Yes 
+					Q(1.5.4.4.2.1):If a tank rental increase has been processed, use positioning with the customer (inflation, costs to maintain asset) and please advise of our SMART Tank Strategy option for standardized pricing. <br? Discounts on SMART Tanks can only be done with approval from the BM or GM. <br><br> If you have agreed to modify the tank rental, please click <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Rental%20Billing%20(Service%20Contracts)%20and%20Adjustments.aspx#title11" target="_blank">HERE</a>
+				A: No
+
+		
+	
+			
+A: Which log resource do I use??		 	
+	Q(1.6): Please choose an option
+	A:Change floating price/Incorrect pricing set up
+		Q(1.6.1):Regional Price desk -ie - Ontario Reg Pricing.  
+	A: Metered accounts
+		Q(1.6.2): Please choose and option:
+		A: Meter pricing inquiries		
+			Q(1.6.2.1):Regional Price desk.  ie - Ontario Reg Pricing.
+		A: Meter reading dispute
+			Q(1.6.2.2): Billing Err/Inv Disp to to the Regional Inventory Admin (ie - Quebec -> Use QC Inventory Admin
+	A:Large commercial accounts pricing inquiries
+		Q(1.6.3): Market Manager & Regional Price Desk
+	A: Shoulder labels
+		Q(1.6.4):Send a Special Delivery Request log to the Region's Delivery Coordinator:  //Delivery/General Delivery/Special Delivery Request
+
+A:<html>
+  <head>
+  <body>
+     <p title="Address update/Name change">Account Modifications</p>
+  </body>
+</html>
+	Q(1.7):Please choose and option below
+	A: Surviving Spouse Accounts
+		Q(1.7.1): Please click <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Surviving%20Spouse%20Accounts.aspx" target="_blank">here for modifying a surviving spouse account</a>			
+	A: Modifying accounts and locations/Name or address change	
+		Q(1.7.2): Click <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Modify%20Accounts%20and%20Locations.aspx#title0" target="_blank">here for name or address changes to an account</a>
+
+
+
+A:<html>
+  <head>
+  <body>
+     <p title="Inactive Campaign/Pull Ahead">Marketing Initiatives</p>
+  </body>
+</html>
+	Q(1.8): Please choose and option
+	A: Inactive Tank Program 
+		Q(1.8.1): Customers who have not received delivery in 12 months are flagged as inactive.  The goal is to reach out to customers to retain their business by placing a delivery or rental increase or retrieve tanks that are not being used. <BR><BR> What options does the customer have?
+		A: Delivery
+			Q(1.8.1.1):The customer's​ first option is to take a delivery. Ask the customer the remaining % in tank if it's 40% and lower offer a delivery, if higher skip to next Option. If they take a delivery their rental charges would remain the same and we will order them a fill. 
+Complete the Inactive Tank log. <BR><BR> Remove Inactive Tank Delivery Stop & Inactive Alert only when the order is placed. <BR><BR> Resolve the Inactive Tank Log
+			A: Here's a link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Inactive%20Vessel.aspx#title8" target="_blank">Inactive tank - delivery option</a>
+				Q(1.8.1.1.1):Did this answer your question?
+				A: Yes
+					Q(1.8.1.1.1.1):<img src="http://jasoneppink.com/wp-content/gallery/the-reaction-gif-moving-image-as-gesture/kermit.gif">
+				A: No
+					Q(1.8.1.1.1.2):This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+				
+		A: Increased tank rental
+			Q(1.8.1.2): If the customer agrees to keep the tank and an increased rental, explain the new rental charges listed <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Inactive%20Vessel.aspx#title9" target="_blank">HERE</a><ul>
+  					<li>Please advise the customer that the rental will be increased at the beginning of their next billing period</li> <LI> There must be a minimum of 30D notice before a rental increase is implemented</li>
+					       <BR><BR> </li> If the customer has called in more than 30 days of the next renewal date, the effective date of the new rental amount will be the next upcoming renewal. </li> Please assign the Log to the Service Admin, and ensure the follow up date is 2 weeks prior to the next upcoming renewal (ex: today is May 17, 2021 and their renewal date is August 1st, 2021 the follow-up date will be July 15 2021)​
+					      <ul>
+					
+			
+		A: Tank pick up
+			Q(1.8.1.3):  If the customer does not want the tank, take a fill or agree to the new rental, we will pick up the equipment.  
+			A: read more about pick up fees <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Inactive%20Vessel.aspx#title10" target="_blank">here</a>
+				Q(1.8.1.3.1): What about special situations due to COVID? <br><br> Where a customer states they are not using propane because of COVID please review their delivery history <BR><BR> <ul>
+  <li>Can you see 10 years of delivery history? (it takes awhile to really see trends)</li>
+  <li>Determine if the customer has previously taken an annual fill</li>
+  <li>If it appears deliveries have stopped during the COVID timelines then yes the customer is exempt from any increases.</li>
+  <li>If the customer only takes a delivery every 3 years they are subject to the inactive program guidelines​ </li>
+</ul>	
+			A: Here is a link to the Wiki <a href="https://superiorplus.sharepoint.com/sites/KM/Wiki/Pages/Inactive%20Vessel.aspx#title12" target="_blank">Special situations due to COVID</a>
+				Q(1.8.1.3.2): Does that answer your question?
+				A: Yes
+					Q(1.8.1.3.2.1): <div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:105.77%;position:relative;"><iframe width="260" height="275" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/6du249"></iframe></div><p><a href="https://imgflip.com/gif/6du249">via Imgflip</a></p></div>
+				A: No
+					Q(1.8.1.3.2.2): This is a work in progress.  Please let us know what we have missed by <a href="mailto:alison_steele@superiorpropane.com; sarah_hayter@superiorpropane.com">sending us an email</a> <BR> In the meantime, please reach out to a Team Lead or Supervisor for assistance
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flip-box {
+  background-color: transparent;
+  width: 300px;
+  height: 80px;
+  border: 1px solid #f1f1f1;
+  perspective: 1000px;
+}
+
+.flip-box-inner {
+  position: relative;
+  width: 110%;
+  height: 100%;
+  text-align: center;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.flip-box:hover .flip-box-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-box-front, .flip-box-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-box-front {
+  background-color: #bbb;
+  color: black;
+}
+
+.flip-box-back {
+  background-color: dodgerblue;
+  color: white;
+  transform: rotateY(180deg);
+}
+</style>
+</head>
+<body>
+
+
+
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <h2>Alerts</h2>
+    </div>
+    <div class="flip-box-back">
+      <h2>Back Side</h2>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
+
+					
+		
